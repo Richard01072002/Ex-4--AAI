@@ -45,7 +45,8 @@ print("The most likely sequence of weather is:",most_likely_sequence)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/0d074a00-da87-4925-9d14-817ea7f7b383)
+<img width="665" alt="Screenshot 2025-04-16 at 11 42 03 AM" src="https://github.com/user-attachments/assets/4a205a1d-b504-42f7-9702-ab360411eb8b" />
+
 <img width="988" alt="Screenshot 2025-04-16 at 11 41 06 AM" src="https://github.com/user-attachments/assets/d17ec691-fb0f-465c-956e-b4ca6e117bd9" />
 
 
